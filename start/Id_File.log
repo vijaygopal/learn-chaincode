@@ -1,0 +1,15 @@
+https://e040cb4f741c480bad10a4a38202be2b-vp2.us.blockchain.ibm.com:5004/
+
+{
+  "enrollId": "user_type2_0",
+  "enrollSecret": "3f2e2a22e8"
+}
+
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "status": "OK",
+    "message": "7e0966bdfd991eb2155f10bdb7ca4c95f7626afd10c32d877b7fe653e6a697d2c29ab16c8d7a374cac1af006ab7dc055d8b5cedc47e1eb9a8e2d8388200320ce"
+  },
+  "id": 1
+}
